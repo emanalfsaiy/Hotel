@@ -3,9 +3,9 @@ Select*from Employ
 Select*from tel
 
 Select*from Coustomer
-Select*from Proo
 
-0
+
+
 
 
 insert into[dbo].[Employ] (mployname,validity,pass,idhotel )
